@@ -19,3 +19,5 @@ Next is the directories for your WoW client.
 In your WoW client folder create a new folder called "Update" put the files into this directory so it works correctly. 
 
 If you encounter issues after updating with content not showing please delete the "cache" directory this changes depending on version of the game. 
+
+This script will also launch your game at the end of the update as long as your WoW client is named "wow.exe".
